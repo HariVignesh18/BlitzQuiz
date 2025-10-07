@@ -1,5 +1,5 @@
 
-import 'package:quizapp/models/quiz_question.dart';
+import 'package:blitzquiz/models/quiz_question.dart';
 
 const questions=[
   QuizQuestion(
