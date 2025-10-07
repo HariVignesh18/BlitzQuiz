@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:quizapp/questions_summary/question_identifier.dart';
+import 'package:blitzquiz/questions_summary/question_identifier.dart';
 
 class SummaryItem extends StatelessWidget{
   const SummaryItem(this.itemData,{super.key});

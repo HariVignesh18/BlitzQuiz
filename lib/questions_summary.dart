@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quizapp/questions_summary/summary_item.dart';
+import 'package:blitzquiz/questions_summary/summary_item.dart';
 
 class QuestionsSummary extends StatelessWidget{
   const QuestionsSummary(this.summaryData,{super.key});
